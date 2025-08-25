@@ -2,7 +2,7 @@ import art
 import game_data
 import random
 import os
-
+#added on the pc 
 def clear_console():
     """Clears the console screen."""
     if os.name == 'nt':  # For Windows
